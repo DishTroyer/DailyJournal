@@ -80,3 +80,19 @@
     font-weight:bold;
     margin-bottom:20px;
 }
+
+#addentry_btn{
+    display: inline-block;
+    margin-top:10px;
+    background-color:rgb(41, 88, 90) ;
+    padding:5px;
+    color:white;
+    width:100%;
+    text-align:center;
+    font-size:18px;
+    font-weight:bold;
+}
+
+#addEntry{
+    text-align: center;
+}
